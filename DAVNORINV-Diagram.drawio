@@ -492,7 +492,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c0th2qlfz-k_1RdxlBxu-121" value="" style="rhombus;whiteSpace=wrap;html=1;startSize=30;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="500" width="80" height="80" as="geometry" />
+          <mxGeometry x="637.5" y="524" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c0th2qlfz-k_1RdxlBxu-122" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="c0th2qlfz-k_1RdxlBxu-121" target="c0th2qlfz-k_1RdxlBxu-84" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
